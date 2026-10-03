@@ -1,0 +1,2 @@
+antecedent,consequent,support,confidence,lift,cases_with_pattern,of_which_this_severity,p_value
+Vehicles_involved=1,Serious Injury,0.0421403052939266,0.26002004008016033,1.8372959343816722,1996,519,5.653289558535464e-44

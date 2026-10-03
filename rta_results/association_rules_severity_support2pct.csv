@@ -1,0 +1,153 @@
+antecedent,consequent,support,confidence,lift,size
+Vehicles_involved=1,Accident_severity=Serious Injury,0.0421403052939266,0.26002004008016033,1.8372959343816722,2
+Age_band_of_driver=Over 51,Accident_severity=Serious Injury,0.0208671646638519,0.16214511041009466,1.145713815152453,2
+Casualties=2 AND Types_of_Junction=Crossing,Accident_severity=Slight Injury,0.029230269568041572,0.9399477806788512,1.1115119411272907,3
+Area_accident_occured=Residential areas,Accident_severity=Serious Injury,0.026307242611237416,0.15728155339805827,1.1113480273382017,2
+Time_period=Evening (18-23),Accident_severity=Serious Injury,0.04165313413445924,0.15640243902439024,1.1051362243398681,2
+Day_of_week=Saturday AND Time_period=Morning (06-11),Accident_severity=Slight Injury,0.02078596947060734,0.9309090909090909,1.100823462663117,3
+Time_period=Morning (06-11) AND Weather_conditions=Raining,Accident_severity=Slight Injury,0.026307242611237416,0.9257142857142857,1.09468047459022,3
+Age_band_of_casualty=18-30,Accident_severity=Serious Injury,0.03954205911010068,0.15484896661367248,1.0941594221537523,2
+Day_of_week=Monday AND Road_surface_conditions=Wet or damp,Accident_severity=Slight Injury,0.03564468983436181,0.9203354297693921,1.0883198418665225,3
+Day_of_week=Monday AND Types_of_Junction=Crossing,Accident_severity=Slight Injury,0.02159792140305294,0.9172413793103449,1.0846610492161506,3
+Day_of_week=Friday,Accident_severity=Serious Injury,0.025414095485547256,0.1533561979421852,1.0836115512656068,2
+Type_of_collision=Collision with roadside objects,Accident_severity=Serious Injury,0.0220850925625203,0.1522956326987682,1.0761176203775267,2
+Time_period=Afternoon (12-17) AND Vehicles_involved=3+,Accident_severity=Slight Injury,0.06641766807405002,0.9088888888888889,1.0747840187763376,3
+Day_of_week=Monday AND Time_period=Evening (18-23),Accident_severity=Slight Injury,0.029392659954530692,0.9072681704260651,1.0728674783454075,3
+Road_allignment=Steep grade downward with mountainous terrain AND Vehicles_involved=2,Accident_severity=Slight Injury,0.02029879831113998,0.9057971014492754,1.071127902203483,3
+Weather_conditions=Other,Accident_severity=Slight Injury,0.021760311789542058,0.9054054054054054,1.070664711759287,2
+Cause_of_accident=No distancing AND Day_of_week=Monday,Accident_severity=Slight Injury,0.022491068528743097,0.9052287581699345,1.07045582195112,3
+Types_of_Junction=No junction,Accident_severity=Serious Injury,0.047174407275089314,0.15142038050560333,1.0699331074624272,2
+Types_of_Junction=Crossing AND Vehicles_involved=2,Accident_severity=Slight Injury,0.11351088015589478,0.9042690815006468,1.069320980101965,3
+Day_of_week=Monday AND Light_conditions=Darkness - lights lit,Accident_severity=Slight Injury,0.02874309840857421,0.903061224489796,1.0678926587437665,3
+Age_band_of_casualty=Under 18 AND Sex_of_casualty=Female,Accident_severity=Slight Injury,0.027768756089639492,0.9023746701846965,1.0670807909740492,3
+Type_of_vehicle=Other AND Vehicles_involved=2,Accident_severity=Slight Injury,0.0593536862617733,0.9002463054187192,1.064563945994906,3
+Road_surface_conditions=Wet or damp AND Type_of_vehicle=Other,Accident_severity=Slight Injury,0.02102955505034102,0.8993055555555556,1.0634514855710249,3
+Area_accident_occured=Church areas AND Driving_experience=5-10yr,Accident_severity=Slight Injury,0.0208671646638519,0.8986013986013986,1.0626188022251393,3
+Area_accident_occured=Office areas AND Vehicles_involved=3+,Accident_severity=Slight Injury,0.039866839883078924,0.8976234003656307,1.0614622946618444,3
+Age_band_of_driver=31-50 AND Type_of_vehicle=Other,Accident_severity=Slight Injury,0.02987983111399805,0.8975609756097561,1.061388475814667,3
+Day_of_week=Monday AND Type_of_vehicle=Lorry (41?100Q),Accident_severity=Slight Injury,0.022653458915232218,0.8971061093247588,1.0608505849681928,3
+Day_of_week=Saturday AND Vehicles_involved=3+,Accident_severity=Slight Injury,0.021922702176031178,0.8970099667774085,1.0607368939827713,3
+Casualties=2 AND Vehicles_involved=3+,Accident_severity=Slight Injury,0.03596947060734004,0.8967611336032388,1.0604426424827162,3
+Casualties=2 AND Sex_of_casualty=Female,Accident_severity=Slight Injury,0.03199090613835661,0.8954545454545454,1.058897569065596,3
+Day_of_week=Monday AND Driving_experience=5-10yr,Accident_severity=Slight Injury,0.03337122442351413,0.8954248366013072,1.0588624375978588,3
+Casualty_class=Passenger AND Road_surface_conditions=Wet or damp,Accident_severity=Slight Injury,0.02078596947060734,0.8951048951048951,1.0584840987145356,3
+Age_band_of_casualty=Under 18 AND Types_of_Junction=Y Shape,Accident_severity=Slight Injury,0.02906787918155245,0.895,1.0583600576092176,3
+Casualties=1 AND Vehicles_involved=3+,Accident_severity=Slight Injury,0.06966547580383241,0.8946819603753909,1.0579839677372362,3
+Age_band_of_casualty=Over 51 AND Sex_of_casualty=Female,Accident_severity=Slight Injury,0.03215329652484573,0.8939051918735892,1.057065419406157,3
+Age_band_of_driver=31-50 AND Lanes_or_Medians=Double carriageway (median),Accident_severity=Slight Injury,0.02387138681390062,0.8936170212765958,1.0567246504121512,3
+Cause_of_accident=No distancing AND Type_of_vehicle=Lorry (41?100Q),Accident_severity=Slight Injury,0.02979863592075349,0.8929440389294403,1.0559288318247708,3
+Age_band_of_casualty=Under 18 AND Time_period=Morning (06-11),Accident_severity=Slight Injury,0.02159792140305294,0.8926174496644297,1.0555426317875292,3
+Day_of_week=Monday AND Types_of_Junction=Y Shape,Accident_severity=Slight Injury,0.05188372848327379,0.8924581005586593,1.0553541974537155,3
+Lanes_or_Medians=Double carriageway (median) AND Vehicles_involved=2,Accident_severity=Slight Injury,0.05115297174407275,0.8923512747875355,1.0552278732869216,3
+Casualty_severity=Level 2 AND Time_period=Afternoon (12-17),Accident_severity=Slight Injury,0.02257226372198766,0.8910256410256411,1.0536602779521647,3
+Type_of_vehicle=Lorry (41?100Q) AND Work_of_casuality=Self-employed,Accident_severity=Slight Injury,0.027119194543683015,0.8906666666666667,1.0532357817250761,3
+Age_band_of_casualty=31-50 AND Cause_of_accident=No distancing,Accident_severity=Slight Injury,0.032965248457291325,0.8903508771929824,1.0528623527132763,3
+Casualties=2 AND Day_of_week=Sunday,Accident_severity=Slight Injury,0.023059434881455017,0.890282131661442,1.052781059389565,3
+Area_accident_occured=Church areas AND Types_of_Junction=Y Shape,Accident_severity=Slight Injury,0.028093536862617733,0.8894601542416452,1.0518090503735096,3
+Age_band_of_casualty=Under 18 AND Casualty_class=Passenger,Accident_severity=Slight Injury,0.0208671646638519,0.8892733564013842,1.0515881572193422,3
+Lanes_or_Medians=Two-way (divided with broken lines road marking),Accident_severity=Serious Injury,0.05326404676843131,0.14871911131262752,1.0508459982365579,2
+Driving_experience=5-10yr AND Weather_conditions=Raining,Accident_severity=Slight Injury,0.023952582007145177,0.8885542168674698,1.050737756595272,3
+Cause_of_accident=No priority to vehicle AND Driving_experience=5-10yr,Accident_severity=Slight Injury,0.02240987333549854,0.887459807073955,1.0494435894309007,3
+Educational_level=High school AND Time_period=Afternoon (12-17),Accident_severity=Slight Injury,0.032559272491068526,0.8871681415929203,1.049098687648431,3
+Cause_of_accident=No priority to vehicle AND Lanes_or_Medians=Undivided Two way,Accident_severity=Slight Injury,0.027362780123416693,0.8868421052631579,1.0487131414710564,3
+Vehicles_involved=3+ AND Work_of_casuality=Self-employed,Accident_severity=Slight Injury,0.024114972393634297,0.8865671641791045,1.0483880167095392,3
+Area_accident_occured=Office areas AND Weather_conditions=Raining,Accident_severity=Slight Injury,0.027281584930172135,0.8865435356200528,1.0483600753429256,3
+Driving_experience=1-2yr AND Time_period=Morning (06-11),Accident_severity=Slight Injury,0.03345241961675869,0.8860215053763442,1.0477427614224728,3
+Light_conditions=Daylight AND Weather_conditions=Raining,Accident_severity=Slight Injury,0.055862292952257225,0.8854568854568855,1.0470750841370142,3
+Age_band_of_driver=31-50 AND Casualties=2,Accident_severity=Slight Injury,0.05569990256576811,0.8851612903225806,1.0467255354405092,3
+Time_period=Afternoon (12-17) AND Type_of_vehicle=Public (12 seats),Accident_severity=Slight Injury,0.0212731406300747,0.8851351351351352,1.0466946062721387,3
+Area_accident_occured=Church areas AND Time_period=Afternoon (12-17),Accident_severity=Slight Injury,0.03117895420591101,0.8847926267281107,1.0462895814482391,3
+Age_band_of_casualty=Over 51 AND Types_of_Junction=Y Shape,Accident_severity=Slight Injury,0.026632023384215654,0.8840970350404312,1.0454670267458426,3
+Time_period=Afternoon (12-17) AND Type_of_vehicle=Lorry (41?100Q),Accident_severity=Slight Injury,0.06414420266320234,0.883668903803132,1.0449607507671026,3
+Area_accident_occured=Office areas AND Driving_experience=1-2yr,Accident_severity=Slight Injury,0.03499512828840533,0.8831967213114754,1.0444023830698157,3
+Casualties=2 AND Lanes_or_Medians=Other,Accident_severity=Slight Injury,0.02143553101656382,0.882943143812709,1.044102521286349,3
+Casualties=2 AND Driving_experience=1-2yr,Accident_severity=Slight Injury,0.025089314712569016,0.8828571428571428,1.044000822988821,3
+Casualties=3+ AND Time_period=Afternoon (12-17),Accident_severity=Slight Injury,0.04871711594673595,0.8823529411764706,1.0434045917935104,3
+Types_of_Junction=Crossing,Accident_severity=Slight Injury,0.15589477102955504,0.8819476343592099,1.0429253062667334,2
+Day_of_week=Wednesday AND Driving_experience=1-2yr,Accident_severity=Slight Injury,0.020461188697629102,0.8811188811188813,1.041945284672121,3
+Casualties=2 AND Time_period=Afternoon (12-17),Accident_severity=Slight Injury,0.0708834037025008,0.8809283551967709,1.0417199829672041,3
+Driving_experience=5-10yr AND Time_period=Morning (06-11),Accident_severity=Slight Injury,0.06170834686586554,0.8806488991888761,1.0413895191944502,3
+Type_of_vehicle=Automobile,Accident_severity=Serious Injury,0.038324131211432286,0.14726989079563182,1.0406058376586353,2
+Type_of_collision=Rollover AND Vehicle_movement=Going straight,Accident_severity=Slight Injury,0.02021760311789542,0.8798586572438162,1.040455038177133,3
+Day_of_week=Thursday,Accident_severity=Serious Injury,0.0220850925625203,0.14694759589411127,1.0383285089110008,2
+Day_of_week=Wednesday AND Educational_level=Elementary school,Accident_severity=Slight Injury,0.02273465410847678,0.8777429467084641,1.0379531571446419,3
+Time_period=Afternoon (12-17) AND Vehicle_movement=Other,Accident_severity=Slight Injury,0.029392659954530692,0.8765133171912833,1.036499089248953,3
+Area_accident_occured=Office areas AND Cause_of_accident=Changing lane to the left,Accident_severity=Slight Injury,0.02931146476128613,0.8762135922330097,1.0361446569315167,3
+Day_of_week=Sunday AND Types_of_Junction=Y Shape,Accident_severity=Slight Injury,0.034426761935693405,0.8760330578512396,1.0359311704748793,3
+Educational_level=High school AND Types_of_Junction=Y Shape,Accident_severity=Slight Injury,0.028661903215329652,0.8759305210918114,1.0358099181725156,3
+Age_band_of_driver=18-30 AND Educational_level=High school,Accident_severity=Slight Injury,0.026794413770704774,0.8753315649867375,1.0351016374821564,3
+Sex_of_casualty=Male,Accident_severity=Serious Injury,0.06235790841182202,0.14620217018846374,1.0330613471262877,2
+Type_of_vehicle=Other,Accident_severity=Slight Injury,0.08557973367976615,0.8725165562913907,1.0317728187503379,2
+Road_surface_conditions=Wet or damp AND Sex_of_casualty=Female,Accident_severity=Slight Injury,0.03937966872361156,0.8723021582733812,1.031519287690347,3
+Vehicles_involved=2,Accident_severity=Slight Injury,0.5905326404676843,0.8720623501199041,1.0312357085047277,2
+Day_of_week=Tuesday AND Driving_experience=Above 10yr,Accident_severity=Slight Injury,0.024845729132835337,0.8717948717948718,1.0309194086438447,3
+Day_of_week=Monday,Accident_severity=Slight Injury,0.11895095810328028,0.8715050565139798,1.030576694769676,2
+Area_accident_occured=Residential areas AND Day_of_week=Thursday,Accident_severity=Slight Injury,0.02143553101656382,0.8712871287128714,1.0303189896522058,3
+Driving_experience=2-5yr,Accident_severity=Serious Injury,0.03093536862617733,0.14580941446613088,1.0302861437549444,2
+Type_of_vehicle=Stationwagen AND Vehicle_driver_relation=Employee,Accident_severity=Slight Injury,0.036943812926274765,0.8699808795411089,1.02877431708385,3
+Casualties=1,Accident_severity=Serious Injury,0.09922052614485223,0.14552816482076933,1.0282988398924815,2
+Vehicle_driver_relation=Owner,Accident_severity=Serious Injury,0.0233030204611887,0.1454637607704004,1.027843762276679,2
+Casualty_class=Driver or rider,Accident_severity=Serious Injury,0.058379343942838585,0.14542880258899676,1.0275967485290214,2
+Area_accident_occured=Other AND Day_of_week=Sunday,Accident_severity=Slight Injury,0.034426761935693405,0.8688524590163934,1.0274399313726261,3
+Casualty_severity=Level 3,Accident_severity=Serious Injury,0.0834686586554076,0.14527981910684004,1.0265440344921641,2
+Day_of_week=Tuesday,Accident_severity=Serious Injury,0.0208671646638519,0.14519774011299436,1.025964066111095,2
+Driving_experience=Below 1yr AND Work_of_casuality=Driver,Accident_severity=Slight Injury,0.04043520623579084,0.8675958188153309,1.025953922662469,3
+Day_of_week=Thursday AND Educational_level=Elementary school,Accident_severity=Slight Injury,0.024439753166612538,0.867435158501441,1.0257639377920065,3
+Educational_level=Elementary school,Accident_severity=Serious Injury,0.025495290678791815,0.14516874711049468,1.025759202187523,2
+Age_band_of_casualty=31-50 AND Day_of_week=Tuesday,Accident_severity=Slight Injury,0.025982461838259176,0.8672086720867209,1.025496111898229,3
+Cause_of_accident=Driving carelessly AND Type_of_vehicle=Automobile,Accident_severity=Slight Injury,0.026307242611237416,0.8663101604278075,1.0244335992154467,3
+Cause_of_accident=No priority to vehicle,Accident_severity=Slight Injury,0.08484897694056512,0.8657829328914665,1.0238101393654635,2
+Age_band_of_casualty=Under 18,Accident_severity=Slight Injury,0.07275089314712568,0.8657004830917874,1.0237126403992753,2
+Owner_of_vehicle=Organization,Accident_severity=Slight Injury,0.021922702176031178,0.8653846153846154,1.0233391188744045,2
+Weather_conditions=Raining,Accident_severity=Slight Injury,0.09337447223124391,0.8640120210368144,1.0217159914632172,2
+Lanes_or_Medians=Double carriageway (median),Accident_severity=Slight Injury,0.07153296524845729,0.8637254901960784,1.0213771615223142,2
+Vehicles_involved=3+,Accident_severity=Slight Injury,0.13868139006170835,0.8626262626262625,1.0200772972160392,2
+Cause_of_accident=No priority to pedestrian,Accident_severity=Slight Injury,0.050422215004871714,0.8613037447988905,1.0185133865523894,2
+Age_band_of_casualty=18-30 AND Day_of_week=Friday,Accident_severity=Slight Injury,0.034751542708671646,0.8611670020120724,1.0183516847605074,3
+Time_period=Morning (06-11),Accident_severity=Slight Injury,0.22604741799285483,0.8603213844252162,1.0173517206510767,2
+Age_band_of_casualty=Over 51,Accident_severity=Slight Injury,0.06942189022409874,0.8601609657947686,1.017162021577376,2
+Type_of_vehicle=Lorry (41?100Q),Accident_severity=Slight Injury,0.15264696329977265,0.8600182982616651,1.016993313623684,2
+Casualty_severity=Level 2,Accident_severity=Slight Injury,0.05383241312114323,0.8599221789883268,1.016879650160368,2
+Cause_of_accident=Changing lane to the right,Accident_severity=Serious Injury,0.02111075024358558,0.14380530973451328,1.016125183413807,2
+Type_of_vehicle=Public (> 45 seats),Accident_severity=Slight Injury,0.02817473205586229,0.8589108910891089,1.0156837767310096,2
+Owner_of_vehicle=Governmental,Accident_severity=Slight Injury,0.07258850276063657,0.8587896253602304,1.0155403769502254,2
+Casualties=2,Accident_severity=Slight Injury,0.1596297499188048,0.8585152838427946,1.0152159611913452,2
+Driving_experience=1-2yr,Accident_severity=Slight Injury,0.1223611562195518,0.8582004555808656,1.0148436688366722,2
+Area_accident_occured=School areas,Accident_severity=Slight Injury,0.02890548879506333,0.8578313253012049,1.0144071629774019,2
+Area_accident_occured=Church areas,Accident_severity=Slight Injury,0.07380643065930496,0.8575471698113207,1.0140711419487496,2
+Cause_of_accident=No distancing,Accident_severity=Slight Injury,0.15751867489444624,0.8572691117984975,1.0137423313404028,2
+Time_period=Afternoon (12-17),Accident_severity=Slight Injury,0.3563657031503735,0.8563902439024391,1.0127030479022987,2
+Vehicle_movement=Getting off,Accident_severity=Slight Injury,0.023546606040922378,0.855457227138643,1.0115997320633248,2
+Area_accident_occured=Industrial areas,Accident_severity=Slight Injury,0.03166612536537837,0.8552631578947368,1.0113702402910782,2
+Educational_level=High school,Accident_severity=Slight Injury,0.07705423838908737,0.854954954954955,1.0110057825468293,2
+Age_band_of_driver=31-50,Accident_severity=Slight Injury,0.2835336148100032,0.8544164423782725,1.0103689778522136,2
+Area_accident_occured=Other,Accident_severity=Serious Injury,0.04433257551152972,0.14296936370777694,1.0102184070137583,2
+Type_of_collision=Rollover,Accident_severity=Slight Injury,0.027525170509905814,0.8539042821158691,1.0097633354334177,2
+Type_of_vehicle=Public (12 seats),Accident_severity=Slight Injury,0.049285482299447875,0.8537271448663855,1.0095538661713301,2
+Area_accident_occured=Recreational areas,Accident_severity=Slight Injury,0.02273465410847678,0.853658536585366,1.0094727351498192,2
+Driving_experience=Above 10yr,Accident_severity=Serious Injury,0.026226047417992854,0.14279398762157383,1.0089792034121075,2
+Work_of_casuality=Self-employed,Accident_severity=Slight Injury,0.14152322182526794,0.8527397260273972,1.0083862185072898,2
+Road_surface_conditions=Dry,Accident_severity=Serious Injury,0.10815199740175381,0.14261241970021413,1.0076962484382312,2
+Light_conditions=Daylight,Accident_severity=Slight Injury,0.6080708022085093,0.8512161854967037,1.0065845934303796,2
+Sex_of_casualty=Female,Accident_severity=Slight Injury,0.18106528093536864,0.851145038167939,1.0065004599209157,2
+Area_accident_occured=Office areas,Accident_severity=Slight Injury,0.2384702825592725,0.8510576644450883,1.0063971382914747,2
+Type_of_collision=Vehicle with vehicle collision,Accident_severity=Slight Injury,0.606284507957129,0.8510371552313654,1.0063728856293324,2
+Lanes_or_Medians=One way,Accident_severity=Slight Injury,0.058379343942838585,0.8508875739644971,1.0061960020112095,2
+Day_of_week=Wednesday,Accident_severity=Serious Injury,0.0212731406300747,0.1423913043478261,1.006133852178902,2
+Vehicle_movement=Other,Accident_severity=Slight Injury,0.06471256901591425,0.8505869797225187,1.005840541743883,2
+Driving_experience=5-10yr,Accident_severity=Slight Injury,0.23221825267944138,0.8504311626523937,1.0056562841312415,2
+Cause_of_accident=Driving under the influence of drugs,Accident_severity=Slight Injury,0.023465410847677816,0.85,1.0051464234277485,2
+Age_band_of_casualty=31-50,Accident_severity=Serious Injury,0.028337122442351412,0.14215885947046844,1.004491401743138,2
+Educational_level=Junior high school,Accident_severity=Serious Injury,0.0879343942838584,0.14214463840399003,1.0043909159974418,2
+Cause_of_accident=Changing lane to the left,Accident_severity=Slight Injury,0.10157518674894446,0.8492871690427698,1.0043034828546091,2
+Types_of_Junction=Y Shape,Accident_severity=Slight Injury,0.31316986034426764,0.8489984591679508,1.0039620761509824,2
+Vehicle_movement=Going straight,Accident_severity=Slight Injury,0.5620331276388438,0.8484922775189998,1.003363503593279,2
+Casualty_class=Passenger,Accident_severity=Slight Injury,0.08817797986359208,0.8484375,1.0032987277964474,2
+Day_of_week=Wednesday,Accident_severity=Slight Injury,0.1265833062682689,0.8472826086956522,1.0019330397211381,2
+Vehicle_driver_relation=Employee,Accident_severity=Slight Injury,0.6622279961026307,0.8472005816973096,1.0018360407281868,2
+Road_surface_conditions=Wet or damp,Accident_severity=Slight Injury,0.1997401753816174,0.8471074380165289,1.0017258959780673,2
+Work_of_casuality=Driver,Accident_severity=Slight Injury,0.40589477102955507,0.8468575300694563,1.0014303735319658,2
+Age_band_of_casualty=31-50,Accident_severity=Slight Injury,0.16880480675544007,0.8468431771894094,1.0014134008895599,2
+Day_of_week=Sunday,Accident_severity=Slight Injury,0.10084443000974343,0.8466257668711658,1.00115630770862,2
+Casualties=1,Accident_severity=Slight Injury,0.5770542383890873,0.8463737048946052,1.0008582380683588,2
+Area_accident_occured=Other,Accident_severity=Slight Injury,0.26226047417992854,0.845771144278607,1.0001456949529837,2

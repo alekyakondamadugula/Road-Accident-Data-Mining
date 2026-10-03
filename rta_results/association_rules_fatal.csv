@@ -1,0 +1,280 @@
+antecedent,consequent,support,confidence,lift,cases_with_pattern,of_which_this_severity,p_value
+Casualties=3+ AND Day_of_week=Sunday AND Types_of_Junction=No junction,Fatal injury,0.0015427086716466385,0.15833333333333333,12.341983122362869,120,19,1.9254523712231337e-15
+Age_band_of_driver=18-30 AND Casualties=3+ AND Day_of_week=Sunday,Fatal injury,0.0014615134784020786,0.14754098360655737,11.500726291761776,122,18,3.728119976048882e-14
+Casualties=3+ AND Day_of_week=Saturday AND Vehicles_involved=2,Fatal injury,0.001867489444624878,0.12568306010928962,9.79691498927855,183,23,4.2413621541812346e-16
+Casualties=3+ AND Day_of_week=Sunday AND Vehicles_involved=2,Fatal injury,0.002029879831113998,0.12376237623762376,9.6471988971049,202,25,3.330985240304971e-17
+Casualties=3+ AND Light_conditions=Darkness - lights lit AND Types_of_Junction=No junction,Fatal injury,0.0014615134784020786,0.11842105263157894,9.230846102598267,152,18,1.7755871555460387e-12
+Casualties=3+ AND Vehicle_driver_relation=Owner AND Vehicles_involved=2,Fatal injury,0.0017050990581357584,0.11413043478260869,8.896395156851954,184,21,5.486534644531299e-14
+Casualties=3+ AND Time_period=Evening (18-23) AND Vehicles_involved=2,Fatal injury,0.0027606365703150373,0.10397553516819572,8.104827159060116,327,34,2.1763924131167185e-20
+Casualties=3+ AND Light_conditions=Daylight AND Time_period=Evening (18-23),Fatal injury,0.0014615134784020786,0.1016949152542373,7.927054280197384,177,18,2.366855459696338e-11
+Casualties=3+ AND Day_of_week=Sunday AND Educational_level=Junior high school,Fatal injury,0.0016239038648911985,0.10101010101010101,7.873673443293696,198,20,2.1478070938712995e-12
+Area_accident_occured=Residential areas AND Casualties=3+ AND Vehicles_involved=2,Fatal injury,0.0014615134784020786,0.1,7.79493670886076,180,18,3.136321764539e-11
+Casualties=3+ AND Day_of_week=Saturday,Fatal injury,0.002192270217603118,0.09747292418772563,7.5979527487090435,277,27,8.197331692967765e-16
+Age_band_of_driver=18-30 AND Casualties=3+ AND Types_of_Junction=No junction,Fatal injury,0.0016239038648911985,0.09389671361502347,7.319189397991323,213,20,8.279676945813864e-12
+Casualties=3+ AND Day_of_week=Sunday AND Road_allignment=Tangent road with flat terrain,Fatal injury,0.001948684637869438,0.08888888888888889,6.928832630098453,270,24,2.3915883232790736e-13
+Casualties=3+ AND Day_of_week=Sunday AND Road_surface_type=Asphalt roads,Fatal injury,0.002029879831113998,0.08833922261484099,6.885986491926467,283,25,8.856472634464059e-14
+Casualties=3+ AND Types_of_Junction=No junction AND Vehicles_involved=2,Fatal injury,0.0022734654108476776,0.08333333333333333,6.495780590717299,336,28,1.3095025098908764e-14
+Casualties=3+ AND Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry,Fatal injury,0.002111075024358558,0.08176100628930817,6.373218692779237,318,26,1.7461171661501484e-13
+Casualties=3+ AND Time_period=Evening (18-23) AND Work_of_casuality=Driver,Fatal injury,0.0017050990581357584,0.08076923076923077,6.295910418695229,260,21,4.395514731174386e-11
+Casualties=3+ AND Day_of_week=Sunday,Fatal injury,0.002029879831113998,0.08012820512820513,6.245942875689711,312,25,7.876570037355595e-13
+Area_accident_occured=Residential areas AND Casualties=3+ AND Weather_conditions=Normal,Fatal injury,0.0013803182851575186,0.07906976744186046,6.163438327936414,215,17,4.107498261052963e-09
+Casualties=3+ AND Road_surface_conditions=Dry AND Time_period=Evening (18-23),Fatal injury,0.002192270217603118,0.07803468208092486,6.082754079168801,346,27,1.8499781547305615e-13
+Casualties=3+ AND Vehicle_driver_relation=Owner,Fatal injury,0.0017862942513803184,0.07508532423208192,5.8528535015336765,293,22,6.327990575378943e-11
+Casualties=3+ AND Educational_level=Junior high school AND Types_of_Junction=No junction,Fatal injury,0.002111075024358558,0.07428571428571429,5.7905244122965644,350,26,1.5696828230130745e-12
+Casualties=3+ AND Time_period=Evening (18-23) AND Vehicle_movement=Going straight,Fatal injury,0.001948684637869438,0.0736196319018405,5.738603712044731,326,24,1.3311954272288961e-11
+Casualties=3+ AND Road_allignment=Tangent road with flat terrain AND Time_period=Evening (18-23),Fatal injury,0.0025982461838259174,0.07239819004524888,5.643393092387881,442,32,9.394241483181238e-15
+Area_accident_occured=Residential areas AND Casualties=3+,Fatal injury,0.0015427086716466385,0.07011070110701106,5.465084777430052,271,19,3.802986686242297e-09
+Age_band_of_driver=18-30 AND Casualties=3+ AND Educational_level=Junior high school,Fatal injury,0.002111075024358558,0.06896551724137931,5.375818419903972,377,26,8.32628577590473e-12
+Day_of_week=Sunday AND Types_of_Junction=No junction AND Vehicles_involved=2,Fatal injury,0.001867489444624878,0.06824925816023739,5.3199864778574915,337,23,1.5745702736291095e-10
+Age_band_of_driver=18-30 AND Casualties=3+ AND Vehicles_involved=2,Fatal injury,0.002111075024358558,0.06806282722513089,5.305454304460203,382,26,1.11571925452739e-11
+Casualties=3+ AND Light_conditions=Daylight AND Road_surface_conditions=Wet or damp,Fatal injury,0.0015427086716466385,0.0673758865248227,5.251907711643774,282,19,7.270995929280488e-09
+Casualties=3+ AND Light_conditions=Darkness - lights lit AND Weather_conditions=Normal,Fatal injury,0.002111075024358558,0.0663265306122449,5.170111082407647,392,26,1.9752207474982272e-11
+Casualties=3+ AND Driving_experience=2-5yr AND Educational_level=Junior high school,Fatal injury,0.0012991230919129587,0.06584362139917696,5.132468614887744,243,16,1.477998332717336e-07
+Casualties=3+ AND Time_period=Evening (18-23),Fatal injury,0.0027606365703150373,0.06576402321083172,5.126263986484832,517,34,2.3009148455874415e-14
+Casualties=3+ AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.002192270217603118,0.06553398058252427,5.108332309204867,412,27,1.0813433918906838e-11
+Casualties=3+ AND Type_of_vehicle=Automobile AND Vehicles_involved=2,Fatal injury,0.0013803182851575186,0.06538461538461539,5.0966893865628045,260,17,6.770432874670027e-08
+Educational_level=Junior high school AND Light_conditions=Darkness - lights lit AND Vehicles_involved=1,Fatal injury,0.0017862942513803184,0.06489675516224189,5.058660991001083,339,22,9.967580556051257e-10
+Age_band_of_driver=18-30 AND Day_of_week=Sunday AND Vehicles_involved=2,Fatal injury,0.0017862942513803184,0.06451612903225806,5.028991425071458,341,22,1.111668697903496e-09
+Light_conditions=Darkness - lights lit AND Sex_of_casualty=Male AND Vehicles_involved=1,Fatal injury,0.0012991230919129587,0.06451612903225806,5.028991425071458,248,16,1.9482071751492152e-07
+Casualties=3+ AND Educational_level=Junior high school AND Light_conditions=Darkness - lights lit,Fatal injury,0.0017050990581357584,0.06363636363636363,4.960414269275028,330,21,3.34147359867957e-09
+Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry AND Vehicles_involved=1,Fatal injury,0.001867489444624878,0.06284153005464481,4.898457494639275,366,23,7.838599074440291e-10
+Casualties=3+ AND Type_of_collision=Collision with roadside objects,Fatal injury,0.0012991230919129587,0.06274509803921569,4.890940680069496,255,16,2.835100936319355e-07
+Day_of_week=Sunday AND Educational_level=Junior high school AND Types_of_Junction=No junction,Fatal injury,0.0016239038648911985,0.06269592476489028,4.887107654458156,319,20,1.0011326206540374e-08
+Casualties=3+ AND Driving_experience=2-5yr AND Road_allignment=Tangent road with flat terrain,Fatal injury,0.0014615134784020786,0.061224489795918366,4.772410229914751,294,18,7.63192534373389e-08
+Light_conditions=Darkness - lights lit AND Time_period=Evening (18-23) AND Vehicles_involved=1,Fatal injury,0.0014615134784020786,0.05844155844155844,4.555482492191353,308,18,1.5257688136242647e-07
+Casualties=3+ AND Vehicles_involved=2,Fatal injury,0.0047093212081844756,0.05759682224428997,4.489635840257439,1007,58,1.3561139583229634e-20
+Age_band_of_driver=18-30 AND Casualties=3+ AND Road_surface_conditions=Dry,Fatal injury,0.001948684637869438,0.05714285714285714,4.454249547920434,420,24,2.2349806978683116e-09
+Age_band_of_driver=18-30 AND Casualty_severity=Level 3 AND Day_of_week=Sunday,Fatal injury,0.0013803182851575186,0.05704697986577181,4.446775974853454,298,17,4.667630235087269e-07
+Casualties=3+ AND Types_of_Junction=No junction,Fatal injury,0.0025982461838259174,0.056838365896980464,4.430514648020325,563,32,6.187346285259069e-12
+Age_band_of_driver=18-30 AND Casualties=3+ AND Casualty_severity=Level 3,Fatal injury,0.0017050990581357584,0.05675675675675676,4.424153267191242,370,21,2.4355574184020588e-08
+Casualty_severity=Level 3 AND Day_of_week=Sunday AND Types_of_Junction=No junction,Fatal injury,0.0012991230919129587,0.05517241379310345,4.300654735923177,290,16,1.5476327582596756e-06
+Day_of_week=Sunday AND Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.001867489444624878,0.05502392344497608,4.2890800072678825,418,23,9.62488182774164e-09
+Casualties=3+ AND Driving_experience=2-5yr,Fatal injury,0.0015427086716466385,0.05413105413105413,4.219481409354827,351,19,2.2812082440776998e-07
+Age_band_of_driver=18-30 AND Day_of_week=Sunday AND Educational_level=Junior high school,Fatal injury,0.0013803182851575186,0.05329153605015674,4.154041506289433,319,17,1.190408180384567e-06
+Casualties=3+ AND Casualty_severity=Level 3 AND Lanes_or_Medians=Undivided Two way,Fatal injury,0.0012991230919129587,0.05228758169934641,4.075783900057914,306,16,3.085905453475749e-06
+Day_of_week=Sunday AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.0015427086716466385,0.052054794520547946,4.057638286804231,365,19,4.1275878836968943e-07
+Casualties=3+ AND Road_allignment=Tangent road with flat terrain AND Work_of_casuality=Driver,Fatal injury,0.0028418317635595975,0.051775147928994084,4.035840011984122,676,35,8.918872413869039e-12
+Light_conditions=Darkness - lights lit AND Vehicles_involved=1,Fatal injury,0.0024358557973367975,0.05172413793103448,4.031863814927979,580,30,2.6415642810927777e-10
+Casualties=3+ AND Sex_of_casualty=Male AND Work_of_casuality=Driver,Fatal injury,0.0014615134784020786,0.05172413793103448,4.031863814927979,348,18,8.995228462405445e-07
+Casualties=3+ AND Casualty_severity=Level 3 AND Work_of_casuality=Driver,Fatal injury,0.001948684637869438,0.05161290322580645,4.023193140057166,465,24,1.5816294755611383e-08
+Casualties=3+ AND Casualty_class=Driver or rider AND Road_allignment=Tangent road with flat terrain,Fatal injury,0.0022734654108476776,0.051001821493624776,3.9755597057941947,549,28,1.3854049845229806e-09
+Casualties=3+ AND Casualty_class=Driver or rider AND Educational_level=Junior high school,Fatal injury,0.0016239038648911985,0.05012531328320802,3.9072364455442403,399,20,3.7652982606451744e-07
+Casualties=3+ AND Road_allignment=Tangent road with flat terrain AND Sex_of_casualty=Male,Fatal injury,0.0024358557973367975,0.04991680532445923,3.890983382126835,601,30,6.083434405498199e-10
+Age_band_of_driver=18-30 AND Casualties=3+,Fatal injury,0.0024358557973367975,0.04950495049504951,3.85887955884196,606,30,7.377434347947687e-10
+Casualties=3+ AND Light_conditions=Darkness - lights lit,Fatal injury,0.002111075024358558,0.049429657794676805,3.8530105405015163,526,26,9.870342657476665e-09
+Age_band_of_driver=18-30 AND Day_of_week=Sunday AND Owner_of_vehicle=Owner,Fatal injury,0.0016239038648911985,0.04819277108433735,3.756596004270246,415,20,6.938651632010394e-07
+Casualties=3+ AND Lanes_or_Medians=Undivided Two way AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0013803182851575186,0.04735376044568245,3.691195656006488,359,17,5.762304597228404e-06
+Casualties=3+ AND Lanes_or_Medians=Two-way (divided with broken lines road marking) AND Road_surface_conditions=Dry,Fatal injury,0.0015427086716466385,0.04702970297029703,3.665935580899862,404,19,1.8573327629068623e-06
+Day_of_week=Sunday AND Types_of_Junction=No junction,Fatal injury,0.001867489444624878,0.04684317718940937,3.6513960143339608,491,23,1.7539648977799359e-07
+Casualties=3+ AND Work_of_casuality=Driver,Fatal injury,0.0028418317635595975,0.044642857142857144,3.4798824593128392,784,35,4.721597477346805e-10
+Age_band_of_driver=18-30 AND Day_of_week=Sunday,Fatal injury,0.0017862942513803184,0.0437375745526839,3.4093162543724995,503,22,9.989551287165924e-07
+Day_of_week=Sunday AND Sex_of_casualty=Male AND Vehicles_involved=2,Fatal injury,0.0016239038648911985,0.04291845493562232,3.3454663986526865,466,20,4.001879094334431e-06
+Age_band_of_driver=18-30 AND Light_conditions=Darkness - lights lit AND Types_of_Junction=No junction,Fatal injury,0.0012991230919129587,0.0427807486631016,3.3347322818655654,374,16,3.656818989112539e-05
+Area_accident_occured=Residential areas AND Educational_level=Junior high school AND Light_conditions=Darkness - lights lit,Fatal injury,0.0012991230919129587,0.042666666666666665,3.3258396624472573,375,16,3.774560905516591e-05
+Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.002111075024358558,0.04234527687296417,3.3007875314394095,614,26,2.0482737216945774e-07
+Casualty_class=Driver or rider AND Day_of_week=Sunday AND Vehicles_involved=2,Fatal injury,0.0014615134784020786,0.04215456674473068,3.2859217976462216,427,18,1.5025658768619314e-05
+Casualty_severity=Level 3 AND Day_of_week=Sunday AND Vehicles_involved=2,Fatal injury,0.002029879831113998,0.04180602006688963,3.2587528047076755,598,25,4.380792089370624e-07
+Day_of_week=Sunday AND Educational_level=Junior high school AND Vehicles_involved=2,Fatal injury,0.002111075024358558,0.04075235109717868,3.1766199753978017,638,26,4.221280681837766e-07
+Casualties=3+,Fatal injury,0.005358882754140955,0.040515653775322284,3.158169568967527,1629,66,1.594646720709481e-15
+Casualties=1 AND Time_period=Evening (18-23) AND Vehicles_involved=1,Fatal injury,0.0013803182851575186,0.040380047505938245,3.1475991460957937,421,17,4.359041683317013e-05
+Day_of_week=Saturday AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.0013803182851575186,0.040380047505938245,3.1475991460957937,421,17,4.359041683317013e-05
+Educational_level=Junior high school AND Light_conditions=Darkness - lights lit AND Types_of_Junction=No junction,Fatal injury,0.002111075024358558,0.0401854714064915,3.13243206229335,647,26,5.4812644131764e-07
+Area_accident_occured=Residential areas AND Time_period=Evening (18-23) AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0012991230919129587,0.0399002493765586,3.110199185580353,401,16,8.270680997521604e-05
+Day_of_week=Saturday AND Types_of_Junction=No junction AND Weather_conditions=Normal,Fatal injury,0.0013803182851575186,0.03917050691244239,3.0533162223648134,434,17,6.321312332637932e-05
+Driving_experience=2-5yr AND Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry,Fatal injury,0.0013803182851575186,0.038901601830663615,3.0323552414332475,437,17,6.871836071871918e-05
+Lanes_or_Medians=Undivided Two way AND Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry,Fatal injury,0.0017862942513803184,0.038461538461538464,2.9980525803310614,572,22,7.734064106373678e-06
+Road_surface_conditions=Dry AND Road_surface_type=Asphalt roads AND Time_period=Night (00-05),Fatal injury,0.0013803182851575186,0.038202247191011236,2.977840989901863,445,17,8.551525730546343e-05
+Area_accident_occured=Residential areas AND Light_conditions=Darkness - lights lit AND Weather_conditions=Normal,Fatal injury,0.0013803182851575186,0.03803131991051454,2.9645173165689687,447,17,9.024006379110795e-05
+Day_of_week=Sunday AND Light_conditions=Daylight AND Sex_of_casualty=Male,Fatal injury,0.0012991230919129587,0.03764705882352941,2.9345644080416973,425,16,0.00016037941521841848
+Day_of_week=Sunday AND Road_allignment=Tangent road with flat terrain AND Vehicles_involved=2,Fatal injury,0.0025982461838259174,0.037296037296037296,2.907202502139211,858,32,1.5681652009755382e-07
+Driving_experience=2-5yr AND Light_conditions=Darkness - lights lit AND Weather_conditions=Normal,Fatal injury,0.0015427086716466385,0.03725490196078431,2.9039960287912634,510,19,4.744531886247485e-05
+Driving_experience=2-5yr AND Sex_of_casualty=Male AND Work_of_casuality=Driver,Fatal injury,0.0014615134784020786,0.03680981595092025,2.8693018560223655,489,18,8.593832004926352e-05
+Time_period=Evening (18-23) AND Vehicles_involved=1,Fatal injury,0.0015427086716466385,0.036468330134357005,2.8426832527515247,521,19,6.28142344666186e-05
+Road_surface_type=Asphalt roads AND Time_period=Night (00-05) AND Weather_conditions=Normal,Fatal injury,0.0013803182851575186,0.036093418259023353,2.8134591093552634,471,17,0.0001675731169001112
+Casualty_severity=Level 3 AND Day_of_week=Sunday AND Sex_of_casualty=Male,Fatal injury,0.0017050990581357584,0.03583617747440273,2.7934073530047088,586,21,3.432472425311994e-05
+Driving_experience=2-5yr AND Light_conditions=Darkness - lights lit AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0012991230919129587,0.03547671840354767,2.765387745937298,451,16,0.00030980359282393115
+Age_band_of_driver=18-30 AND Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry,Fatal injury,0.002192270217603118,0.03529411764705882,2.751154132539092,765,27,3.8125163969883673e-06
+Light_conditions=Darkness - lights lit AND Types_of_Junction=No junction AND Weather_conditions=Normal,Fatal injury,0.002111075024358558,0.034993270524899055,2.7277032897763087,743,26,6.605664259819125e-06
+Road_surface_conditions=Dry AND Time_period=Night (00-05),Fatal injury,0.0013803182851575186,0.034623217922606926,2.698857923638145,491,17,0.00027108207567872654
+Lanes_or_Medians=Undivided Two way AND Road_surface_conditions=Dry AND Vehicles_involved=1,Fatal injury,0.0012991230919129587,0.034408602150537634,2.6821287600381107,465,16,0.0004315950068320871
+Age_band_of_casualty=18-30 AND Time_period=Evening (18-23) AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0015427086716466385,0.03398926654740608,2.649441815176287,559,19,0.00015523118292955223
+Age_band_of_driver=18-30 AND Driving_experience=2-5yr AND Vehicles_involved=2,Fatal injury,0.0017050990581357584,0.033816425120772944,2.635968935363542,621,21,7.767030059187415e-05
+Day_of_week=Sunday AND Vehicles_involved=2,Fatal injury,0.0027606365703150373,0.033663366336633666,2.624038100012533,1010,34,6.759968021014603e-07
+Lanes_or_Medians=Undivided Two way AND Vehicle_driver_relation=Employee AND Vehicles_involved=1,Fatal injury,0.0012991230919129587,0.03361344537815126,2.620146792894373,476,16,0.0005542157208483749
+Lanes_or_Medians=Undivided Two way AND Owner_of_vehicle=Owner AND Vehicles_involved=1,Fatal injury,0.0014615134784020786,0.033271719038817,2.593509441025761,541,18,0.00029362609659120016
+Road_surface_conditions=Dry AND Vehicles_involved=1 AND Work_of_casuality=Driver,Fatal injury,0.001948684637869438,0.03305785123966942,2.5768385814415735,726,24,3.58828774971997e-05
+Age_band_of_driver=18-30 AND Educational_level=Junior high school AND Types_of_Junction=No junction,Fatal injury,0.002111075024358558,0.03299492385786802,2.571933431857611,788,26,1.804930283615292e-05
+Day_of_week=Saturday AND Types_of_Junction=No junction,Fatal injury,0.0013803182851575186,0.03294573643410853,2.5680993033068398,516,17,0.0004750328540708132
+Time_period=Night (00-05) AND Weather_conditions=Normal,Fatal injury,0.0013803182851575186,0.03262955854126679,2.5434534366724164,521,17,0.0005287756364683163
+Lanes_or_Medians=Undivided Two way AND Light_conditions=Darkness - lights lit AND Weather_conditions=Normal,Fatal injury,0.001867489444624878,0.03244005641748942,2.5286818660620236,709,23,6.812635751722187e-05
+Day_of_week=Sunday AND Sex_of_casualty=Male,Fatal injury,0.0017050990581357584,0.032357473035439135,2.522244543699167,649,21,0.00014205563227036994
+Age_band_of_driver=18-30 AND Driving_experience=2-5yr AND Educational_level=Junior high school,Fatal injury,0.0016239038648911985,0.03225806451612903,2.514495712535729,620,20,0.00020974424892846927
+Lanes_or_Medians=Undivided Two way AND Time_period=Evening (18-23) AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0017862942513803184,0.03206997084548105,2.499833929955346,686,22,0.00011363899005569345
+Age_band_of_driver=18-30 AND Light_conditions=Darkness - lights lit AND Weather_conditions=Normal,Fatal injury,0.0023546606040922378,0.03200883002207505,2.495068041467572,906,29,1.085705510156699e-05
+Vehicles_involved=1 AND Weather_conditions=Normal AND Work_of_casuality=Driver,Fatal injury,0.002029879831113998,0.0319693094629156,2.491987438894105,782,25,4.2840915384686355e-05
+Day_of_week=Saturday AND Time_period=Evening (18-23),Fatal injury,0.0012991230919129587,0.031936127744510975,2.489400944945552,501,16,0.0009477793075024037
+Casualty_severity=Level 3 AND Vehicles_involved=1 AND Work_of_casuality=Driver,Fatal injury,0.0013803182851575186,0.03189493433395872,2.4861899446647824,533,17,0.0006794981357483321
+Casualty_class=Driver or rider AND Day_of_week=Sunday,Fatal injury,0.0015427086716466385,0.03177257525083612,2.476652131577833,598,19,0.00035783750907565046
+Area_accident_occured=Residential areas AND Time_period=Evening (18-23),Fatal injury,0.0014615134784020786,0.031746031746031744,2.4745830821780186,567,18,0.0005081159830553251
+Age_band_of_driver=18-30 AND Educational_level=Junior high school AND Light_conditions=Darkness - lights lit,Fatal injury,0.001948684637869438,0.03153745072273324,2.4583243234252063,761,24,7.395345501720772e-05
+Day_of_week=Sunday AND Educational_level=Junior high school AND Road_allignment=Tangent road with flat terrain,Fatal injury,0.002029879831113998,0.031446540880503145,2.451237958761245,795,25,5.5593711364884236e-05
+Casualty_severity=Level 3 AND Driving_experience=2-5yr AND Work_of_casuality=Driver,Fatal injury,0.0017862942513803184,0.031294452347083924,2.4393827538397823,703,22,0.00015993968840459323
+Age_band_of_driver=18-30 AND Light_conditions=Darkness - lights lit AND Time_period=Evening (18-23),Fatal injury,0.0017862942513803184,0.03076923076923077,2.398442064264849,715,22,0.00020197142765092596
+Area_accident_occured=Residential areas AND Light_conditions=Darkness - lights lit,Fatal injury,0.0014615134784020786,0.03076923076923077,2.398442064264849,585,18,0.0007260364572341104
+Light_conditions=Darkness - lights lit AND Types_of_Junction=No junction,Fatal injury,0.0024358557973367975,0.03054989816700611,2.3813452267395396,982,30,1.854404328245441e-05
+Road_allignment=Tangent road with flat terrain AND Type_of_collision=Collision with pedestrians AND Vehicles_involved=2,Fatal injury,0.0012991230919129587,0.030534351145038167,2.3801333462170255,524,16,0.0014980019905251219
+Casualty_severity=Level 3 AND Day_of_week=Sunday,Fatal injury,0.002111075024358558,0.03048065650644783,2.3759478831228575,853,26,6.630466337344655e-05
+Casualty_severity=Level 3 AND Cause_of_accident=Moving Backward AND Weather_conditions=Normal,Fatal injury,0.0012991230919129587,0.0300187617260788,2.33994347733156,533,16,0.0017764214698810848
+Age_band_of_casualty=18-30 AND Light_conditions=Darkness - lights lit AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0013803182851575186,0.029668411867364748,2.3126339275852166,573,17,0.0014747482465558004
+Educational_level=Junior high school AND Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry,Fatal injury,0.003085417343293277,0.02966432474629196,2.3123153390843783,1281,38,3.1313449759161675e-06
+Driving_experience=2-5yr AND Light_conditions=Darkness - lights lit,Fatal injury,0.0016239038648911985,0.02962962962962963,2.3096108766994843,675,20,0.00060935039832978
+Lanes_or_Medians=Undivided Two way AND Types_of_Junction=No junction AND Work_of_casuality=Driver,Fatal injury,0.0012991230919129587,0.02962962962962963,2.3096108766994843,540,16,0.002021805554977159
+Age_band_of_driver=18-30 AND Light_conditions=Darkness - lights lit AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.002111075024358558,0.029545454545454545,2.303049482163406,880,26,0.00010864715573589246
+Day_of_week=Saturday AND Types_of_Junction=Y Shape,Fatal injury,0.0014615134784020786,0.02936378466557912,2.2888884300080536,613,18,0.001222668847992997
+Lanes_or_Medians=Undivided Two way AND Vehicles_involved=1,Fatal injury,0.0014615134784020786,0.029173419773095625,2.2740496071230742,617,18,0.0013129903732428845
+Cause_of_accident=Moving Backward AND Road_surface_conditions=Dry AND Vehicle_driver_relation=Employee,Fatal injury,0.0015427086716466385,0.0290519877675841,2.26458405914915,654,19,0.0010305930463757635
+Types_of_Junction=No junction AND Vehicle_driver_relation=Employee AND Vehicles_involved=1,Fatal injury,0.0014615134784020786,0.02903225806451613,2.2630461412821563,620,18,0.0013843888047642054
+Time_period=Evening (18-23) AND Vehicle_driver_relation=Owner,Fatal injury,0.0012991230919129587,0.028985507246376812,2.2594019445973217,552,16,0.0025081000318359753
+Educational_level=Junior high school AND Lanes_or_Medians=Undivided Two way AND Light_conditions=Darkness - lights lit,Fatal injury,0.0013803182851575186,0.028960817717206135,2.257477411424752,587,17,0.0018950712738419644
+Lanes_or_Medians=Undivided Two way AND Light_conditions=Darkness - lights lit AND Time_period=Evening (18-23),Fatal injury,0.0012991230919129587,0.02888086642599278,2.2512452588767538,554,16,0.002597884519372905
+Cause_of_accident=Moving Backward AND Vehicle_driver_relation=Employee AND Weather_conditions=Normal,Fatal injury,0.0016239038648911985,0.02865329512893983,2.233506220303943,698,20,0.000913341615000718
+Driving_experience=2-5yr AND Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.0016239038648911985,0.028409090909090908,2.2144706559263523,704,20,0.0010113283506593947
+Age_band_of_casualty=18-30 AND Light_conditions=Darkness - lights lit AND Owner_of_vehicle=Owner,Fatal injury,0.0015427086716466385,0.028315946348733235,2.207210096398725,671,19,0.0013801209885039402
+Lanes_or_Medians=Undivided Two way AND Light_conditions=Darkness - lights lit AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0015427086716466385,0.028273809523809524,2.2039255575647982,672,19,0.001403487909185283
+Vehicles_involved=1 AND Work_of_casuality=Driver,Fatal injury,0.002192270217603118,0.028066528066528068,2.1877680991605044,962,27,0.00018451271366066722
+Day_of_week=Sunday AND Educational_level=Junior high school,Fatal injury,0.002111075024358558,0.028017241379310345,2.1839262330859888,928,26,0.0002460816640297825
+Sex_of_casualty=Male AND Weather_conditions=Raining,Fatal injury,0.0012991230919129587,0.027923211169284468,2.176596637727263,573,16,0.0035914971291414596
+Age_band_of_driver=18-30 AND Time_period=Evening (18-23) AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.002029879831113998,0.027901785714285716,2.1749265370705246,896,25,0.00033922395691896723
+Road_surface_type=Asphalt roads AND Time_period=Night (00-05),Fatal injury,0.0013803182851575186,0.027823240589198037,2.1688039942820443,611,17,0.002848263285202732
+Day_of_week=Saturday AND Road_allignment=Tangent road with flat terrain AND Sex_of_casualty=Male,Fatal injury,0.0012991230919129587,0.027538726333907058,2.146626288154426,581,16,0.004094216675267467
+Age_band_of_driver=18-30 AND Driving_experience=2-5yr,Fatal injury,0.002029879831113998,0.02753303964757709,2.1461830145541736,908,25,0.00041100684051759053
+Age_band_of_casualty=18-30 AND Light_conditions=Darkness - lights lit AND Pedestrian_movement=Not a Pedestrian,Fatal injury,0.0016239038648911985,0.027359781121751026,2.132677622123327,731,20,0.0015715880549455785
+Casualties=1 AND Types_of_Junction=Y Shape AND Vehicles_involved=1,Fatal injury,0.0012991230919129587,0.02735042735042735,2.131948501568755,585,16,0.004366367883401405
+Light_conditions=Daylight AND Type_of_collision=Collision with pedestrians,Fatal injury,0.0013803182851575186,0.027331189710610933,2.1304489397207864,622,17,0.003402505022626533
+Sex_of_casualty=Male AND Vehicles_involved=1,Fatal injury,0.001867489444624878,0.027315914489311165,2.129258245888331,842,23,0.000756041912956055
+Educational_level=Junior high school AND Light_conditions=Darkness - lights lit AND Weather_conditions=Normal,Fatal injury,0.003410198116271517,0.027308192457737322,2.128656318414512,1538,42,7.399434629085436e-06
+Day_of_week=Saturday AND Work_of_casuality=Driver,Fatal injury,0.0017862942513803184,0.027194066749072928,2.1197602916555836,809,22,0.0010262834102862748
+Age_band_of_casualty=18-30 AND Lanes_or_Medians=Undivided Two way AND Road_surface_conditions=Dry,Fatal injury,0.0015427086716466385,0.027181688125894134,2.118795385813368,699,19,0.00217420173653659
+Driving_experience=2-5yr AND Weather_conditions=Normal AND Work_of_casuality=Driver,Fatal injury,0.002192270217603118,0.027135678391959798,2.115208956173271,995,27,0.00031101680340811034
+Driving_experience=2-5yr AND Road_surface_conditions=Dry AND Work_of_casuality=Driver,Fatal injury,0.002029879831113998,0.02702702702702703,2.1067396510434486,925,25,0.0005354055574949937
+Age_band_of_driver=18-30 AND Types_of_Junction=No junction AND Work_of_casuality=Driver,Fatal injury,0.0012991230919129587,0.02702702702702703,2.1067396510434486,592,16,0.00487810130308593
+Time_period=Evening (18-23) AND Types_of_Junction=Y Shape AND Vehicle_movement=Going straight,Fatal injury,0.0016239038648911985,0.02680965147453083,2.0897953643058336,746,20,0.001983750788558329
+Age_band_of_casualty=18-30 AND Time_period=Evening (18-23),Fatal injury,0.0017050990581357584,0.026615969581749048,2.07469798334697,789,21,0.0016994460622720437
+Time_period=Evening (18-23) AND Type_of_collision=Vehicle with vehicle collision AND Types_of_Junction=Y Shape,Fatal injury,0.0017862942513803184,0.026570048309178744,2.0711184492142114,828,22,0.0013711164140467439
+Cause_of_accident=Moving Backward AND Educational_level=Junior high school,Fatal injury,0.0015427086716466385,0.02642559109874826,2.0598581010897696,719,19,0.0029517187922885038
+Age_band_of_driver=18-30 AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.002029879831113998,0.026343519494204427,2.0534606714596313,949,25,0.0007665551895589357
+Age_band_of_driver=18-30 AND Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.0023546606040922378,0.02633969118982743,2.053162257556422,1101,29,0.00031021163931176565
+Casualty_class=Pedestrian AND Casualty_severity=Level 3 AND Sex_of_casualty=Male,Fatal injury,0.0014615134784020786,0.02631578947368421,2.0512991339107263,684,18,0.003896064335142499
+Casualty_class=Driver or rider AND Vehicles_involved=1,Fatal injury,0.0017050990581357584,0.026184538653366583,2.0410682155371065,802,21,0.002060007916218218
+Casualty_severity=Level 3 AND Day_of_week=Saturday AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0013803182851575186,0.026153846153846153,2.0386757546251215,650,17,0.005225053035889752
+Types_of_Junction=No junction AND Vehicles_involved=1,Fatal injury,0.0016239038648911985,0.02607561929595828,2.0325780205634314,767,20,0.0027114657483563146
+Age_band_of_driver=18-30 AND Light_conditions=Darkness - lights lit,Fatal injury,0.0025982461838259174,0.026016260162601626,2.027951013687352,1230,32,0.00019605111373756777
+Age_band_of_driver=31-50 AND Types_of_Junction=No junction AND Vehicles_involved=2,Fatal injury,0.0016239038648911985,0.02600780234070221,2.0272917318233445,769,20,0.0027911524972623813
+Casualty_severity=Level 3 AND Time_period=Evening (18-23) AND Types_of_Junction=Y Shape,Fatal injury,0.0012991230919129587,0.025848142164781908,2.0148463221611013,619,16,0.007328054697918593
+Lanes_or_Medians=Undivided Two way AND Time_period=Evening (18-23),Fatal injury,0.002029879831113998,0.02577319587628866,2.0090043064074123,970,25,0.0010355754710856817
+Casualty_severity=Level 3 AND Cause_of_accident=Moving Backward,Fatal injury,0.0013803182851575186,0.0256797583081571,2.0017209071092585,662,17,0.006218191188207258
+Educational_level=Junior high school AND Time_period=Evening (18-23) AND Types_of_Junction=No junction,Fatal injury,0.0013803182851575186,0.02564102564102564,1.9987017202207076,663,17,0.006307414177986255
+Age_band_of_driver=18-30 AND Vehicles_involved=1,Fatal injury,0.0012991230919129587,0.0256,1.9955037974683545,625,16,0.007987839472676854
+Lanes_or_Medians=Undivided Two way AND Light_conditions=Darkness - lights lit,Fatal injury,0.002029879831113998,0.0255885363357216,1.9946102120933367,977,25,0.0011417786015000043
+Casualty_severity=Level 3 AND Vehicles_involved=1 AND Weather_conditions=Normal,Fatal injury,0.001948684637869438,0.025504782146652496,1.9880816260643805,941,24,0.0014745542706567664
+Cause_of_accident=Moving Backward AND Weather_conditions=Normal,Fatal injury,0.001867489444624878,0.02547065337763012,1.9854213101195732,903,23,0.0018537303713008846
+Casualty_severity=Level 3 AND Types_of_Junction=No junction AND Work_of_casuality=Driver,Fatal injury,0.002192270217603118,0.025423728813559324,1.981763570049346,1062,27,0.0008204106005171896
+Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry,Fatal injury,0.004222150048717116,0.02537823328452904,1.9782172223560737,2049,52,5.2826523902646255e-06
+Age_band_of_driver=18-30 AND Educational_level=Junior high school AND Time_period=Evening (18-23),Fatal injury,0.0015427086716466385,0.02529960053262317,1.9720878491125757,751,19,0.004670429360602348
+Time_period=Night (00-05),Fatal injury,0.0013803182851575186,0.025185185185185185,1.9631692451945617,675,17,0.007461177134150741
+Casualty_class=Pedestrian AND Sex_of_casualty=Male AND Weather_conditions=Normal,Fatal injury,0.0014615134784020786,0.025174825174825177,1.9623616889439677,715,18,0.006063851210900552
+Driving_experience=2-5yr AND Types_of_Junction=No junction,Fatal injury,0.0017050990581357584,0.024881516587677725,1.93949847021417,844,21,0.0036967545698763015
+Age_band_of_casualty=18-30 AND Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.0017050990581357584,0.02485207100591716,1.937203205752378,845,21,0.0037461306309961922
+Age_band_of_casualty=18-30 AND Light_conditions=Darkness - lights lit,Fatal injury,0.0016239038648911985,0.02481389578163772,1.93422747118133,806,20,0.0046582488173621825
+Casualty_class=Driver or rider AND Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.0025982461838259174,0.024786986831913247,1.9321299355812884,1291,32,0.0004465515232618564
+Age_band_of_casualty=18-30 AND Casualty_class=Driver or rider AND Types_of_Junction=No junction,Fatal injury,0.0014615134784020786,0.024759284731774415,1.9299705744084412,727,18,0.007130379900398484
+Sex_of_casualty=Male AND Types_of_Junction=No junction AND Work_of_casuality=Driver,Fatal injury,0.0015427086716466385,0.024739583333333332,1.9284348628691983,768,19,0.005875683192229436
+Age_band_of_driver=31-50 AND Time_period=Evening (18-23) AND Vehicles_involved=2,Fatal injury,0.0013803182851575186,0.024709302325581394,1.9260744774801295,688,17,0.008896613288460828
+Day_of_week=Saturday AND Sex_of_casualty=Male,Fatal injury,0.0013803182851575186,0.024602026049204053,1.917712359632893,691,17,0.00925729018713655
+Age_band_of_casualty=18-30 AND Lanes_or_Medians=Undivided Two way,Fatal injury,0.001867489444624878,0.02459893048128342,1.9174710620727,935,23,0.0028424246433469916
+Area_accident_occured=Residential areas AND Educational_level=Junior high school AND Weather_conditions=Normal,Fatal injury,0.002111075024358558,0.02459791863765374,1.9173921895021737,1057,26,0.0015925420908386111
+Age_band_of_driver=18-30 AND Road_surface_conditions=Dry AND Time_period=Evening (18-23),Fatal injury,0.001867489444624878,0.024572649572649572,1.915422481878178,936,23,0.0028793722083133863
+Type_of_collision=Collision with pedestrians,Fatal injury,0.0017862942513803184,0.024553571428571428,1.9139353526220615,896,22,0.003528038549105851
+Driving_experience=2-5yr AND Work_of_casuality=Driver,Fatal injury,0.0024358557973367975,0.024529844644317254,1.9120858648064007,1223,30,0.0007736553589056602
+Age_band_of_driver=31-50 AND Casualty_severity=Level 3 AND Types_of_Junction=No junction,Fatal injury,0.0013803182851575186,0.024495677233429394,1.9094225367526356,694,17,0.009629526125461828
+Age_band_of_driver=18-30 AND Lanes_or_Medians=Undivided Two way AND Road_surface_conditions=Dry,Fatal injury,0.001948684637869438,0.024439918533604887,1.9050761813916317,982,24,0.0025397009899054443
+Age_band_of_driver=31-50 AND Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.002029879831113998,0.024154589371980676,1.8828349538311013,1035,25,0.0024443087810704202
+Road_allignment=Tangent road with flat terrain AND Sex_of_casualty=Male AND Types_of_Junction=No junction,Fatal injury,0.0027606365703150373,0.024096385542168676,1.878298002135123,1411,34,0.000496439035646638
+Casualty_class=Driver or rider AND Types_of_Junction=No junction AND Work_of_casuality=Driver,Fatal injury,0.0013803182851575186,0.024079320113314446,1.87696776275684,706,17,0.011239132749253863
+Lanes_or_Medians=Undivided Two way AND Types_of_Junction=No junction,Fatal injury,0.0023546606040922378,0.02404643449419569,1.8744043495602158,1206,29,0.0012565458405392681
+Light_conditions=Darkness - lights lit AND Sex_of_casualty=Male AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.001948684637869438,0.024,1.8707848101265823,1000,24,0.0031814503859175724
+Age_band_of_driver=18-30 AND Educational_level=Junior high school AND Lanes_or_Medians=Undivided Two way,Fatal injury,0.0015427086716466385,0.023989898989898988,1.8699974427822528,792,19,0.007998474046307432
+Educational_level=Junior high school AND Types_of_Junction=No junction AND Vehicles_involved=2,Fatal injury,0.002923026956804157,0.023968042609853527,1.868293751790861,1502,36,0.00038274520329378636
+Sex_of_casualty=Male AND Type_of_vehicle=Lorry (41?100Q),Fatal injury,0.0017862942513803184,0.02386117136659436,1.8599632060188362,922,22,0.004891836126634442
+Day_of_week=Sunday,Fatal injury,0.0028418317635595975,0.023858214042263123,1.8597326844589406,1467,35,0.0004943921792752869
+Casualty_severity=Level 3 AND Lanes_or_Medians=Undivided Two way AND Work_of_casuality=Driver,Fatal injury,0.001948684637869438,0.02373887240356083,1.8504300792547799,1011,24,0.003637100586505615
+Age_band_of_driver=31-50 AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.0017862942513803184,0.023655913978494623,1.8439635225262012,930,22,0.005390215311775261
+Light_conditions=Darkness - lights lit AND Weather_conditions=Normal,Fatal injury,0.0047093212081844756,0.023634881825590873,1.8423240795188431,2454,58,1.2689388110402067e-05
+Light_conditions=Darkness - lights lit AND Time_period=Evening (18-23) AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0025170509905813577,0.023628048780487805,1.841791447977771,1312,31,0.0011535068384172932
+Area_accident_occured=Other AND Educational_level=Junior high school AND Types_of_Junction=No junction,Fatal injury,0.0014615134784020786,0.023591087811271297,1.8389103638203625,763,18,0.01126637560575978
+Driving_experience=2-5yr AND Sex_of_casualty=Male,Fatal injury,0.002111075024358558,0.023508137432188065,1.8324444342710646,1106,26,0.00290732755039185
+Age_band_of_driver=18-30 AND Lanes_or_Medians=Undivided Two way AND Weather_conditions=Normal,Fatal injury,0.002029879831113998,0.023408239700374533,1.8246574693026123,1068,25,0.003637484185364503
+Time_period=Evening (18-23) AND Types_of_Junction=Y Shape,Fatal injury,0.002111075024358558,0.023214285714285715,1.8095388788426765,1120,26,0.0034201161397765054
+Age_band_of_driver=18-30 AND Types_of_Junction=No junction,Fatal injury,0.0024358557973367975,0.02320185614849188,1.8085700020558606,1293,30,0.0017914087104624677
+Casualty_class=Driver or rider AND Light_conditions=Darkness - lights lit AND Type_of_collision=Vehicle with vehicle collision,Fatal injury,0.0017050990581357584,0.023178807947019868,1.8067734093385868,906,21,0.007982644678842587
+Area_accident_occured=Other AND Types_of_Junction=No junction AND Vehicles_involved=2,Fatal injury,0.0013803182851575186,0.02312925170068027,1.802910531301128,735,17,0.016009723534470725
+Age_band_of_driver=18-30 AND Lanes_or_Medians=Undivided Two way AND Vehicles_involved=2,Fatal injury,0.0017050990581357584,0.0231023102310231,1.8008104607929147,909,21,0.008264198964426938
+Area_accident_occured=Residential areas AND Weather_conditions=Normal AND Work_of_casuality=Driver,Fatal injury,0.0014615134784020786,0.023047375160051217,1.7965283067796887,781,18,0.013949433542663741
+Casualty_severity=Level 3 AND Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.0034913933095160766,0.023031601499732192,1.7952987599411498,1867,43,0.00025985159614630036
+Casualty_severity=Level 3 AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.003085417343293277,0.022919179734620022,1.786535554503672,1658,38,0.0006182306508416223
+Light_conditions=Daylight AND Time_period=Evening (18-23) AND Vehicles_involved=2,Fatal injury,0.0016239038648911985,0.022909507445589918,1.7857816056954774,873,20,0.010610086126036061
+Sex_of_casualty=Male AND Vehicle_driver_relation=Owner AND Weather_conditions=Normal,Fatal injury,0.0012991230919129587,0.022889842632331903,1.7842487459480996,699,16,0.020674268838183532
+Cause_of_accident=Moving Backward,Fatal injury,0.002111075024358558,0.022867194371152155,1.7824833283234807,1137,26,0.004143386576265421
+Cause_of_accident=Changing lane to the right AND Sex_of_casualty=Male,Fatal injury,0.0014615134784020786,0.02284263959390863,1.780569298978346,788,18,0.015118843150619274
+Educational_level=Junior high school AND Light_conditions=Darkness - lights lit,Fatal injury,0.0038161740824943164,0.022826614861583293,1.7793201812358217,2059,47,0.00017074259427731005
+Casualty_class=Driver or rider AND Driving_experience=2-5yr AND Road_allignment=Tangent road with flat terrain,Fatal injury,0.0016239038648911985,0.022779043280182234,1.775612006574205,878,20,0.011227061124851452
+Area_accident_occured=Residential areas AND Vehicle_movement=Going straight AND Weather_conditions=Normal,Fatal injury,0.002029879831113998,0.022706630336058128,1.7699674634107083,1101,25,0.005286288928997162
+Casualty_class=Driver or rider AND Educational_level=Elementary school AND Weather_conditions=Normal,Fatal injury,0.0012991230919129587,0.02263083451202263,1.764059226899182,707,16,0.022654818317259958
+Driving_experience=2-5yr AND Lanes_or_Medians=Undivided Two way,Fatal injury,0.0013803182851575186,0.022516556291390728,1.7551513119289126,755,17,0.020123043165355577
+Road_allignment=Tangent road with flat terrain AND Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.004465735628450796,0.022476501838986515,1.7520290927149236,2447,55,7.65280269366848e-05
+Area_accident_occured=Office areas AND Light_conditions=Darkness - lights lit AND Vehicle_driver_relation=Employee,Fatal injury,0.0012991230919129587,0.02247191011235955,1.7516711705305077,712,16,0.023963356668637924
+Casualty_severity=Level 3 AND Vehicle_driver_relation=Owner AND Weather_conditions=Normal,Fatal injury,0.0017050990581357584,0.022459893048128343,1.750734447979422,935,21,0.011056794841745288
+Casualty_class=Pedestrian AND Sex_of_casualty=Male,Fatal injury,0.0015427086716466385,0.02243211334120425,1.748569037406782,847,19,0.015218692675999984
+Age_band_of_driver=18-30 AND Area_accident_occured=Residential areas,Fatal injury,0.0013803182851575186,0.02230971128608924,1.739027874680222,762,17,0.021738835679153714
+Age_band_of_driver=18-30 AND Time_period=Evening (18-23),Fatal injury,0.0022734654108476776,0.022292993630573247,1.737724744013545,1256,28,0.004249476698941214
+Day_of_week=Saturday,Fatal injury,0.003004222150048717,0.02220888355342137,1.7311684167337822,1666,37,0.001245310221462632
+Road_surface_conditions=Wet or damp AND Time_period=Evening (18-23),Fatal injury,0.0014615134784020786,0.022031823745410038,1.7173667167624687,817,18,0.020797926684879838
+Area_accident_occured=Residential areas AND Road_surface_conditions=Dry AND Work_of_casuality=Driver,Fatal injury,0.0012991230919129587,0.021768707482993196,1.6968569706363557,735,16,0.030724215194012767
+Age_band_of_casualty=18-30 AND Types_of_Junction=No junction,Fatal injury,0.0017862942513803184,0.021739130434782608,1.6945514584479913,1012,22,0.013340953512153477
+Casualty_class=Driver or rider AND Types_of_Junction=No junction,Fatal injury,0.0026794413770704776,0.021639344262295083,1.686773189458394,1525,33,0.0032378242415940237
+Sex_of_casualty=Male AND Types_of_Junction=No junction,Fatal injury,0.002923026956804157,0.021634615384615384,1.6864045764362219,1664,36,0.002199656278171192
+Vehicles_involved=1,Fatal injury,0.0034913933095160766,0.02154308617234469,1.6792699322696025,1996,43,0.0009695291090400606
+Lanes_or_Medians=Undivided Two way AND Road_allignment=Tangent road with flat terrain AND Type_of_vehicle=Automobile,Fatal injury,0.0015427086716466385,0.02144469525959368,1.671600422893391,886,19,0.022879607006271976
+Age_band_of_driver=18-30 AND Area_accident_occured=Other AND Educational_level=Junior high school,Fatal injury,0.0013803182851575186,0.02119700748129676,1.6522933173395626,802,17,0.03292685662509949
+Casualty_class=Driver or rider AND Road_surface_conditions=Wet or damp AND Sex_of_casualty=Male,Fatal injury,0.0017050990581357584,0.02119071644803229,1.651802935278264,991,21,0.0196277657369963
+Age_band_of_driver=Over 51 AND Casualty_severity=Level 3 AND Road_allignment=Tangent road with flat terrain,Fatal injury,0.0012991230919129587,0.021136063408190225,1.6475427654131063,757,16,0.038415463393939836
+Educational_level=Junior high school AND Types_of_Junction=No junction,Fatal injury,0.004059759662227996,0.02109704641350211,1.644501415371468,2370,50,0.0006332618892334705
+Educational_level=Elementary school AND Sex_of_casualty=Male AND Weather_conditions=Normal,Fatal injury,0.0012991230919129587,0.021080368906455864,1.6432014142525977,759,16,0.03917768864882966
+Area_accident_occured=Residential areas AND Educational_level=Junior high school,Fatal injury,0.002192270217603118,0.02094647013188518,1.6327640895208728,1289,27,0.010576448673788447
+Casualty_class=Pedestrian AND Casualty_severity=Level 3 AND Weather_conditions=Normal,Fatal injury,0.001867489444624878,0.020664869721473494,1.6108135157573895,1113,23,0.01966962941759201
+Age_band_of_driver=18-30 AND Lanes_or_Medians=Undivided Two way,Fatal injury,0.002192270217603118,0.020563594821020565,1.6029192013651221,1313,27,0.013128264658224238
+Area_accident_occured=Other AND Lanes_or_Medians=Undivided Two way AND Owner_of_vehicle=Owner,Fatal injury,0.0015427086716466385,0.02045209903121636,1.59422817511684,929,19,0.03440690836298077
+Road_surface_conditions=Dry AND Types_of_Junction=No junction,Fatal injury,0.004790516401429036,0.02041522491349481,1.5913538609784943,2890,59,0.0004980004090460144
+Road_allignment=Tangent road with flat terrain AND Types_of_Junction=No junction,Fatal injury,0.005358882754140955,0.020414475719146303,1.5912954617532018,3233,66,0.0002448167634126299
+Age_band_of_driver=Over 51 AND Road_allignment=Tangent road with flat terrain AND Vehicle_driver_relation=Employee,Fatal injury,0.0017050990581357584,0.020388349514563107,1.589258940641514,1030,21,0.028147667191116003
+Age_band_of_driver=31-50 AND Types_of_Junction=No junction,Fatal injury,0.002029879831113998,0.02035830618892508,1.586917082422793,1228,25,0.018322018012059686
+Driving_experience=Above 10yr AND Sex_of_casualty=Male AND Vehicle_driver_relation=Employee,Fatal injury,0.0012991230919129587,0.020356234096692113,1.586755564144684,786,16,0.05055460218733869
+Casualty_severity=Level 3 AND Educational_level=Elementary school AND Sex_of_casualty=Male,Fatal injury,0.0013803182851575186,0.02026221692491061,1.579426985108855,839,17,0.046601133012666364
+Area_accident_occured=Residential areas AND Vehicle_movement=Going straight,Fatal injury,0.002192270217603118,0.02019446522064323,1.5741457826420382,1337,27,0.01615304638032687
+Sex_of_casualty=Male AND Vehicle_driver_relation=Owner,Fatal injury,0.0013803182851575186,0.02014218009478673,1.5700701901733758,844,17,0.04871805762100083
+Area_accident_occured=Residential areas AND Weather_conditions=Normal,Fatal injury,0.0027606365703150373,0.020118343195266272,1.5682121189424014,1690,34,0.008227681366015873
+Casualty_class=Driver or rider AND Lanes_or_Medians=Undivided Two way AND Road_surface_conditions=Dry,Fatal injury,0.001867489444624878,0.020104895104895104,1.5671638488094184,1144,23,0.025817823724422793
+Casualty_class=Driver or rider AND Lanes_or_Medians=Undivided Two way AND Weather_conditions=Normal,Fatal injury,0.002029879831113998,0.02009646302250804,1.5665065733241077,1244,25,0.021009116897210148
+Light_conditions=Daylight AND Road_surface_conditions=Wet or damp AND Vehicles_involved=2,Fatal injury,0.0017862942513803184,0.02009132420091324,1.5661060054332119,1095,22,0.02889185677748243
+Light_conditions=Darkness - lights lit,Fatal injury,0.005358882754140955,0.02008520998174072,1.5656294059184728,3286,66,0.0003741228551386375
+Casualty_class=Driver or rider AND Educational_level=Elementary school,Fatal injury,0.0013803182851575186,0.02,1.558987341772152,850,17,0.05134681638052558
+Casualty_class=Driver or rider AND Type_of_vehicle=Automobile AND Vehicles_involved=2,Fatal injury,0.0013803182851575186,0.01992966002344666,1.5535043851187915,853,17,0.052697800871885025
+Casualty_severity=Level 3 AND Lanes_or_Medians=Undivided Two way AND Road_surface_conditions=Dry,Fatal injury,0.0025982461838259174,0.019925280199252802,1.553162980594921,1606,32,0.011432204375970144
+Casualty_severity=Level 3 AND Driving_experience=2-5yr,Fatal injury,0.0024358557973367975,0.01989389920424403,1.5507168518953764,1508,30,0.01419562335837046
+Vehicle_driver_relation=Owner AND Vehicles_involved=2,Fatal injury,0.002111075024358558,0.019862490450725745,1.548268559437584,1309,26,0.02147551540540457
+Lanes_or_Medians=Undivided Two way AND Sex_of_casualty=Male,Fatal injury,0.0025982461838259174,0.019753086419753086,1.5397405844663228,1620,32,0.0127853317392414
+Time_period=Evening (18-23),Fatal injury,0.005196492367651835,0.01951219512195122,1.520963260265514,3280,64,0.0009187327849646107
+Casualty_severity=Level 3 AND Vehicle_driver_relation=Owner,Fatal injury,0.0017862942513803184,0.019400352733686066,1.512245216886567,1134,22,0.0397702987176467
+Casualty_class=Driver or rider AND Driving_experience=2-5yr,Fatal injury,0.0016239038648911985,0.019398642095053348,1.5121118736878294,1031,20,0.048032770760526824
+Casualty_class=Driver or rider AND Road_surface_conditions=Wet or damp AND Vehicles_involved=2,Fatal injury,0.0012991230919129587,0.01937046004842615,1.5099151009899776,826,16,0.07135841746667007
+Lanes_or_Medians=Undivided Two way AND Type_of_vehicle=Automobile,Fatal injury,0.0016239038648911985,0.01936108422071636,1.5091842611540676,1033,20,0.048801075385717374

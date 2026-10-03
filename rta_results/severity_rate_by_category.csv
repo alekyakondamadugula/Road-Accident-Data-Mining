@@ -1,0 +1,137 @@
+feature,value,records,serious_or_fatal_%
+Vehicles_involved,1,1996,28.1563126252505
+Light_conditions,Darkness - no lighting,192,28.125
+Age_band_of_driver,Under 18,825,21.939393939393938
+Pedestrian_movement,Crossing from driver's nearside,140,20.714285714285715
+Time_period,Night (00-05),675,20.14814814814815
+Cause_of_accident,Driving to the left,284,20.070422535211268
+Type_of_vehicle,Lorry (11?40Q),541,19.593345656192238
+Types_of_Junction,Other,445,19.101123595505616
+Cause_of_accident,Driving at high speed,174,18.96551724137931
+Area_accident_occured,Outside rural areas,218,18.807339449541285
+Road_surface_type,Gravel roads,242,18.59504132231405
+Type_of_vehicle,Long lorry,383,18.5378590078329
+Work_of_casuality,Student,103,18.446601941747574
+Cause_of_accident,Overtaking,430,18.372093023255815
+Type_of_collision,Collision with pedestrians,896,18.191964285714285
+Type_of_vehicle,Pick up upto 10Q,811,18.12577065351418
+Type_of_vehicle,Motorcycle,177,18.07909604519774
+Type_of_vehicle,Public (13?45 seats),532,17.857142857142858
+Age_band_of_driver,Over 51,1585,17.728706624605678
+Casualties,3+,1629,17.61817065684469
+Time_period,Evening (18-23),3280,17.591463414634145
+Area_accident_occured,Residential areas,2060,17.524271844660195
+Pedestrian_movement,Crossing from nearside - masked by parked or stationary vehicle,337,17.210682492581604
+Vehicle_movement,Turnover,489,17.177914110429448
+Age_band_of_casualty,18-30,3145,17.106518282988873
+Work_of_casuality,Employee,553,16.998191681735985
+Types_of_Junction,No junction,3837,16.992442011988533
+Type_of_collision,Collision with animals,171,16.95906432748538
+Day_of_week,Saturday,1666,16.926770708283314
+Cause_of_accident,Overturning,149,16.778523489932887
+Vehicle_movement,Reversing,563,16.69626998223801
+Type_of_collision,Collision with roadside objects,1786,16.573348264277715
+Cause_of_accident,Moving Backward,1137,16.534740545294635
+Cause_of_accident,Driving carelessly,1402,16.476462196861625
+Types_of_Junction,O Shape,164,16.463414634146343
+Work_of_casuality,Other,463,16.414686825053995
+Road_allignment,Tangent road with mountainous terrain and,396,16.414141414141415
+Driving_experience,2-5yr,2613,16.341370072713357
+Vehicle_driver_relation,Owner,1973,16.269640141915865
+Cause_of_accident,Getting off the vehicle improperly,197,16.243654822335024
+Road_surface_type,Other,167,16.16766467065868
+Sex_of_casualty,Male,5253,16.16219303255283
+Light_conditions,Darkness - lights lit,3286,16.159464394400487
+Day_of_week,Friday,2041,16.119549240568347
+Educational_level,Above high school,362,16.022099447513813
+Weather_conditions,Normal,10063,15.989267614031602
+Lanes_or_Medians,Two-way (divided with broken lines road marking),4411,15.982770346860123
+Casualty_class,Driver or rider,4944,15.9789644012945
+Type_of_vehicle,Automobile,3205,15.975039001560063
+Driving_experience,Below 1yr,1342,15.946348733233979
+Casualty_severity,Level 3,7076,15.941209723007349
+Lanes_or_Medians,Other,1660,15.903614457831324
+Day_of_week,Thursday,1851,15.883306320907616
+Type_of_vehicle,Taxi,265,15.849056603773585
+Road_allignment,Tangent road with mild grade and flat terrain,501,15.768463073852296
+Cause_of_accident,Changing lane to the right,1808,15.652654867256638
+Road_surface_type,Earth roads,358,15.64245810055866
+Vehicle_movement,Moving Backward,985,15.634517766497463
+Owner_of_vehicle,Owner,10459,15.632469643369348
+Educational_level,Elementary school,2163,15.626444752658344
+Road_allignment,Steep grade downward with mountainous terrain,429,15.61771561771562
+Age_band_of_driver,18-30,4271,15.593537813158513
+Type_of_vehicle,Stationwagen,687,15.574963609898107
+Cause_of_accident,Other,456,15.570175438596493
+Driving_experience,Above 10yr,2262,15.561450044208666
+Road_surface_conditions,Dry,9340,15.556745182012849
+Sex_of_driver,Female,701,15.549215406562054
+Vehicle_movement,Entering a junction,193,15.544041450777202
+Sex_of_driver,Male,11437,15.50231704118213
+Lanes_or_Medians,Two-way (divided with solid lines road marking),142,15.492957746478872
+Educational_level,Junior high school,7619,15.487596797479986
+Day_of_week,Tuesday,1770,15.480225988700566
+Casualty_class,Pedestrian,1649,15.463917525773196
+Lanes_or_Medians,Undivided Two way,3796,15.437302423603793
+Area_accident_occured,Other,3819,15.422885572139302
+Road_surface_type,Asphalt roads,11296,15.412535410764871
+Casualties,1,8397,15.362629510539477
+Road_allignment,Tangent road with flat terrain,10459,15.355196481499187
+Pedestrian_movement,Not a Pedestrian,11390,15.346795434591748
+Day_of_week,Sunday,1467,15.337423312883436
+Age_band_of_casualty,31-50,2455,15.315682281059061
+Work_of_casuality,Driver,5903,15.314246993054379
+Road_surface_conditions,Wet or damp,2904,15.289256198347106
+Vehicle_driver_relation,Employee,9627,15.279941830269033
+Day_of_week,Wednesday,1840,15.271739130434783
+Casualty_class,Passenger,1280,15.156249999999998
+Vehicle_movement,Going straight,8158,15.150772248100026
+Types_of_Junction,Y Shape,4543,15.10015408320493
+Cause_of_accident,Changing lane to the left,1473,15.071283095723015
+Cause_of_accident,Driving under the influence of drugs,340,15.0
+Driving_experience,5-10yr,3363,14.956883734760632
+Vehicle_movement,Other,937,14.941302027748133
+Lanes_or_Medians,One way,845,14.911242603550296
+Type_of_collision,Vehicle with vehicle collision,8774,14.89628447686346
+Area_accident_occured,Office areas,3451,14.894233555491162
+Sex_of_casualty,Female,2620,14.885496183206106
+Light_conditions,Daylight,8798,14.87838145032962
+Work_of_casuality,Self-employed,2044,14.726027397260275
+Area_accident_occured,Recreational areas,328,14.634146341463413
+Type_of_vehicle,Public (12 seats),711,14.627285513361462
+Type_of_collision,Rollover,397,14.609571788413097
+Age_band_of_driver,31-50,4087,14.558355762172742
+Educational_level,High school,1110,14.504504504504503
+Area_accident_occured,Industrial areas,456,14.473684210526317
+Vehicle_movement,Getting off,339,14.454277286135694
+Time_period,Afternoon (12-17),5125,14.360975609756096
+Cause_of_accident,No distancing,2263,14.273088820150242
+Area_accident_occured,Church areas,1060,14.245283018867925
+Area_accident_occured,School areas,415,14.216867469879519
+Educational_level,Writing & reading,176,14.204545454545455
+Driving_experience,1-2yr,1756,14.17995444191344
+Casualties,2,2290,14.148471615720522
+Owner_of_vehicle,Governmental,1041,14.121037463976945
+Road_allignment,Gentle horizontal curve,163,14.11042944785276
+Type_of_vehicle,Public (> 45 seats),404,14.108910891089108
+Casualty_severity,Level 2,771,14.007782101167315
+Type_of_vehicle,Lorry (41?100Q),2186,13.998170173833484
+Age_band_of_casualty,Over 51,994,13.98390342052314
+Time_period,Morning (06-11),3236,13.967861557478367
+Cause_of_accident,No priority to pedestrian,721,13.869625520110956
+Vehicles_involved,3+,1980,13.737373737373737
+Lanes_or_Medians,Double carriageway (median),1020,13.627450980392156
+Weather_conditions,Raining,1331,13.598797896318557
+Owner_of_vehicle,Organization,312,13.461538461538462
+Age_band_of_casualty,Under 18,1035,13.429951690821257
+Cause_of_accident,No priority to vehicle,1207,13.421706710853357
+Road_allignment,Escarpments,113,13.274336283185843
+Day_of_week,Monday,1681,12.849494348602022
+Vehicles_involved,2,8340,12.793764988009592
+Type_of_vehicle,Other,1208,12.748344370860929
+Vehicle_driver_relation,Other,123,12.195121951219512
+Types_of_Junction,Crossing,2177,11.805236564079008
+Driving_experience,No Licence,118,11.016949152542372
+Area_accident_occured,Hospital areas,121,9.917355371900827
+Weather_conditions,Other,296,9.45945945945946
+Weather_conditions,Cloudy,125,6.4

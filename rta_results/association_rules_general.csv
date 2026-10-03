@@ -1,0 +1,58 @@
+antecedent,consequent,support,confidence,lift,size
+Weather_conditions=Raining,Road_surface_conditions=Wet or damp,0.10652809353686261,0.98572501878287,4.1805059680887835,2
+Casualty_class=Passenger,Sex_of_casualty=Female,0.06455017862942514,0.62109375,2.919614742366412,2
+Road_surface_conditions=Wet or damp AND Time_period=Evening (18-23),Light_conditions=Darkness - lights lit,0.050016239038648914,0.7539779681762547,2.8259259452400345,3
+Light_conditions=Darkness - lights lit AND Road_surface_conditions=Dry,Time_period=Evening (18-23),0.10116921078272166,0.6081015129331381,2.283347022342844,3
+Age_band_of_casualty=18-30 AND Sex_of_casualty=Male,Casualty_class=Driver or rider,0.1460701526469633,0.825608077099587,2.056672548049861,3
+Age_band_of_casualty=31-50 AND Sex_of_casualty=Male,Casualty_class=Driver or rider,0.11269892822344917,0.8159905937683716,2.032714432211016,3
+Educational_level=Junior high school AND Road_surface_conditions=Wet or damp AND Sex_of_casualty=Male,Casualty_class=Driver or rider,0.05180253329002923,0.8055555555555556,2.0067197051420353,4
+Driving_experience=5-10yr AND Educational_level=Junior high school AND Sex_of_casualty=Male,Casualty_class=Driver or rider,0.05358882754140955,0.7838479809976246,1.9526439591356686,4
+Casualty_class=Driver or rider AND Road_surface_conditions=Wet or damp,Sex_of_casualty=Male,0.08046443650535888,0.8292887029288702,1.9443212764652513,3
+Casualties=2 AND Casualty_class=Driver or rider,Sex_of_casualty=Male,0.0642253978564469,0.8291404612159329,1.9439737141320064,3
+Road_surface_conditions=Wet or damp AND Sex_of_casualty=Male,Casualty_class=Driver or rider,0.08046443650535888,0.7736143637782982,1.9271509919687542,3
+Sex_of_casualty=Male AND Type_of_vehicle=Lorry (41?100Q),Casualty_class=Driver or rider,0.057729782396882104,0.7711496746203905,1.9210112040098564,3
+Day_of_week=Friday AND Sex_of_casualty=Male,Casualty_class=Driver or rider,0.054481974667099704,0.7703788748564868,1.9190910644685462,3
+Casualty_class=Driver or rider AND Light_conditions=Darkness - lights lit,Sex_of_casualty=Male,0.08622929522572263,0.8169230769230769,1.9153292623995077,3
+Sex_of_casualty=Male AND Time_period=Evening (18-23),Casualty_class=Driver or rider,0.08533614810003248,0.7682748538011697,1.9138497369367324,3
+Casualty_class=Driver or rider,Sex_of_casualty=Male,0.31836635271191943,0.7930825242718446,1.8594335368231558,2
+Sex_of_casualty=Male,Casualty_class=Driver or rider,0.31836635271191943,0.7464306110793831,1.8594335368231558,2
+Age_band_of_casualty=18-30,Casualty_class=Driver or rider,0.1837447223124391,0.7195548489666136,1.792483317126378,2
+Age_band_of_casualty=31-50,Casualty_class=Driver or rider,0.14233517375771354,0.7140529531568228,1.7787775426940595,2
+Casualties=2 AND Casualty_severity=Level 3 AND Vehicles_involved=2,Sex_of_casualty=Male,0.05277687560896395,0.7222222222222222,1.6932969520062608,4
+Casualty_class=Passenger,Casualty_severity=Level 3,0.09816498863267295,0.94453125,1.643986274024873,2
+Casualties=2 AND Casualty_severity=Level 3,Sex_of_casualty=Male,0.07510555375121793,0.7007575757575758,1.642971692943138,3
+Casualties=2 AND Casualty_severity=Level 3,Casualty_class=Driver or rider,0.07055862292952257,0.6583333333333333,1.6399743797195254,3
+Casualty_severity=Level 3 AND Road_surface_conditions=Wet or damp,Sex_of_casualty=Male,0.09426761935693406,0.6993975903614458,1.639783118768621,3
+Casualty_severity=Level 3 AND Type_of_collision=Collision with roadside objects,Casualty_class=Driver or rider,0.05529392659954531,0.6579710144927536,1.639071807138502,3
+Casualty_class=Driver or rider AND Sex_of_casualty=Female,Casualty_severity=Level 3,0.07810977590126665,0.9403714565004888,1.6367460229310373,3
+Age_band_of_casualty=31-50,Sex_of_casualty=Male,0.13811302370899642,0.6928716904276986,1.6244827221221274,2
+Age_band_of_casualty=18-30,Sex_of_casualty=Male,0.17692432607989608,0.692845786963434,1.6244219897661627,2
+Casualty_severity=Level 3 AND Cause_of_accident=Changing lane to the right,Sex_of_casualty=Male,0.05756739201039299,0.687015503875969,1.610752512038156,3
+Casualty_class=Driver or rider,Casualty_severity=Level 3,0.3665151023059435,0.9130258899676376,1.589150206450173,2
+Casualty_severity=Level 3,Casualty_class=Driver or rider,0.3665151023059435,0.6379310344827586,1.5891502064501728,2
+Age_band_of_casualty=31-50,Casualty_severity=Level 3,0.18163364728808054,0.9112016293279023,1.5859750235729853,2
+Age_band_of_casualty=18-30,Casualty_severity=Level 3,0.23262422864566418,0.9109697933227344,1.5855715057324473,2
+Sex_of_casualty=Female,Casualty_severity=Level 3,0.1934881455017863,0.9095419847328244,1.5830863600861314,2
+Casualty_severity=Level 3,Sex_of_casualty=Male,0.38104904189671973,0.6632278123233466,1.55498072274402,2
+Sex_of_casualty=Male,Casualty_severity=Level 3,0.38104904189671973,0.8933942509042452,1.5549807227440198,2
+Age_band_of_casualty=Under 18,Casualty_severity=Level 3,0.07372523546606041,0.8772946859903382,1.5269589249091302,2
+Age_band_of_casualty=Under 18,Sex_of_casualty=Male,0.05326404676843131,0.633816425120773,1.4860238133994745,2
+Age_band_of_casualty=Over 51,Casualty_severity=Level 3,0.06860993829165313,0.8501006036217303,1.4796267713687437,2
+Casualty_class=Pedestrian,Casualty_severity=Level 3,0.10985709645988957,0.8204972710733777,1.4281012423035218,2
+Road_surface_conditions=Dry AND Time_period=Morning (06-11),Light_conditions=Daylight,0.18585579733679766,0.9529558701082431,1.3340082400833282,3
+Road_surface_conditions=Dry AND Time_period=Afternoon (12-17) AND Vehicles_involved=3+,Light_conditions=Daylight,0.05602468333874635,0.9465020576131687,1.3249737828556247,4
+Time_period=Morning (06-11) AND Types_of_Junction=Y Shape,Light_conditions=Daylight,0.09589152322182527,0.9463141025641026,1.3247106714229924,3
+Road_surface_conditions=Dry AND Time_period=Afternoon (12-17) AND Types_of_Junction=No junction,Light_conditions=Daylight,0.09499837609613511,0.9435483870967741,1.3208390469974847,4
+Road_surface_conditions=Dry AND Time_period=Afternoon (12-17),Light_conditions=Daylight,0.29896070152646964,0.9223446893787576,1.2911567622628755,3
+Time_period=Morning (06-11),Light_conditions=Daylight,0.2421240662552777,0.9215080346106304,1.289985559702719,2
+Time_period=Afternoon (12-17) AND Types_of_Junction=No junction,Light_conditions=Daylight,0.11602793114647612,0.9027163613392294,1.2636797802061774,3
+Age_band_of_casualty=18-30 AND Casualties=1 AND Time_period=Afternoon (12-17),Light_conditions=Daylight,0.06519974017538162,0.9012345679012347,1.26160547150166,4
+Time_period=Afternoon (12-17) AND Vehicles_involved=3+,Light_conditions=Daylight,0.0658493017213381,0.9011111111111111,1.2614326488343308,3
+Time_period=Afternoon (12-17) AND Vehicles_involved=1,Casualties=1,0.058379343942838585,0.8579952267303104,1.2584338707169826,3
+Light_conditions=Daylight AND Vehicles_involved=1,Casualties=1,0.09483598570964599,0.8550512445095169,1.2541158898867704,3
+Time_period=Afternoon (12-17) AND Vehicle_driver_relation=Owner,Light_conditions=Daylight,0.056268268918480024,0.8884615384615384,1.2437249724587753,3
+Accident_severity=Slight Injury AND Vehicles_involved=1,Casualties=1,0.09832737901916207,0.8444909344490935,1.2386269320799137,3
+Time_period=Afternoon (12-17),Light_conditions=Daylight,0.36034426761935695,0.8659512195121952,1.212213596216435,2
+Age_band_of_driver=Over 51 AND Casualties=1 AND Road_surface_conditions=Dry,Light_conditions=Daylight,0.05602468333874635,0.8625,1.207382359627188,4
+Driving_experience=Above 10yr AND Vehicle_driver_relation=Employee,Educational_level=Junior high school,0.11391685612211758,0.7435082140964494,1.2018699520687586,3
+Vehicles_involved=1,Casualties=1,0.13275414095485547,0.8191382765531062,1.2014418261317203,2
